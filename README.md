@@ -12,8 +12,8 @@
   </br>
 
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&theme=dark&hide_border=true&card_width=500" />
-      <img src="https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&hide_border=true&card_width=500" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&theme=dark&hide_border=true&card_width=500&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&hide_border=true&card_width=500&show_icons=true" />
   </picture>
 
   </br>
@@ -21,7 +21,7 @@
 
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KalanaRatnayake&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&card_width=500&hide=matlab,cmake" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KalanaRatnayake&size_weight=0.5&count_weight=0.5&hide=matlab,cmake&hide_border=true&card_width=500" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KalanaRatnayake&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=500&hide=matlab,cmake" />
   </picture>
 
 </p>

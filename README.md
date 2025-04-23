@@ -2,43 +2,28 @@
 
 <p align="center">
   </br>
-  
-  <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=Quicksilver151&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
 
-  </br>
-  </br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src=https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&show_icons=true&theme=dark#gh-dark-mode-only>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src=https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&show_icons=true&theme=default#gh-light-mode-only>
-  </a>
-  
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KalanaRatnayake&theme=dark&hide_border=true&card_width=500" />
+      <img src="https://streak-stats.demolab.com?user=KalanaRatnayake&hide_border=true&card_width=500" />
+  </picture>
+
   </br>
   </br>
 
   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&show_icons=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&theme=dark&hide_border=true&card_width=500" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KalanaRatnayake&hide_border=true&card_width=500" />
   </picture>
-  
+
   </br>
   </br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quicksilver151&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
-  </a>
-    
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KalanaRatnayake&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&card_width=500&hide=matlab,cmake" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KalanaRatnayake&size_weight=0.5&count_weight=0.5&hide=matlab,cmake&hide_border=true&card_width=500" />
+  </picture>
+
 </p>
 
 <!--
